@@ -1,0 +1,5 @@
+break, return, for, while, function (sederhana), and, or, xor
+include, echo, if, else, 
+
+fitur2 lain: deteksi command (single dan block comment), whiteline (spasi,tab, enter) (rulkenya kalau misalnya variabel dengan keyword/value minimal ada 1 whitespace. Sedangkan klu misalkan sama operator, simbol2, ;, itu tdk pake gpp)
+symbol yg bs dibaca: ; = + - * / (,) (.) $ == % ! != > < >= <= () 'blbalbala' "blablabla" {} []    
